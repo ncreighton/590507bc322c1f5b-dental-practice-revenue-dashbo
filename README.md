@@ -1,0 +1,2 @@
+# 590507bc322c1f5b-dental-practice-revenue-dashbo
+Every dental practice professionals needs this — most just don't know it yet.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Dental Practice Revenue Dashboard And Analytics — fully configured and ready to use - Clean admin settings pan
